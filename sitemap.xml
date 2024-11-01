@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://docs.tongfamily.com/lib/</loc>
+         <loc>https://richtong.github.io/lib/</loc>
          <lastmod>2024-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.tongfamily.com/lib/doc/</loc>
+         <loc>https://richtong.github.io/lib/doc/</loc>
          <lastmod>2024-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.tongfamily.com/lib/files/</loc>
+         <loc>https://richtong.github.io/lib/files/</loc>
          <lastmod>2024-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.tongfamily.com/lib/install/</loc>
+         <loc>https://richtong.github.io/lib/install/</loc>
          <lastmod>2024-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.tongfamily.com/lib/ref/</loc>
+         <loc>https://richtong.github.io/lib/ref/</loc>
          <lastmod>2024-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
