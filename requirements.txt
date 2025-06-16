@@ -245,9 +245,9 @@ pygments==2.18.0 \
 pymdown-extensions==10.11.2 \
     --hash=sha256:bc8847ecc9e784a098efd35e20cba772bc5a1b529dfcef9dc1972db9021a1049 \
     --hash=sha256:41cdde0a77290e480cf53892f5c5e50921a7ee3e5cd60ba91bf19837b33badcf
-pynvim==0.5.0 \
-    --hash=sha256:e80a11f6f5d194c6a47bea4135b90b55faca24da3544da7cf4a5f7ba8fb09215 \
-    --hash=sha256:2ac197ef0cdfff53719184a45c33cfb7cef88d1c9bf7f0525c21b3239cb5365f
+pynvim==0.5.2 \
+    --hash=sha256:20b1c5a18c4cddfc480950094d4135f782b1a98c32149ea63e24bbdb7021eb54 \
+    --hash=sha256:734a2432db8683519f58572617528ecb4a2f321bc7b27f034b3f9b2322c15615
 pyproject-hooks==1.2.0 \
     --hash=sha256:1e859bd5c40fae9448642dd871adf459e5e2084186e8d2c2a79a824c970da1f8 \
     --hash=sha256:9e5c6bfa8dcc30091c74b0cf803c81fdd29d94f01992a7707bc97babb1141913
