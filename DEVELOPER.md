@@ -1131,7 +1131,7 @@ To access environment variables in your Python scripts:
 ```python
 import os
 
-DIR_PATH = os.environ['DIR_PATH']
+DIR_PATH = os.environ["DIR_PATH"]
 ```
 
 ## Airflow
